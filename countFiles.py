@@ -11,5 +11,6 @@ c = s.replace(os.path.basename(os.path.abspath(__file__)), "")
 
 print("_________________________________________________________________________________________________")
 
+
 file_count = sum(len(files) for _, _, files in os.walk(r'C:\Users\super\YandexDisk'))
 print(file_count)
