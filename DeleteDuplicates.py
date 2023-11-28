@@ -9,7 +9,7 @@ def main():
     counter = 0
     counternew = 0
     counter1 = 0
-    directory = r'/Users/testersoulja/Yandex.Disk.localized/BratishkinoMy/Photo'
+    directory = r'D:\YandexDisk\Kit\Photo'
     # directory = r'/Users/s.ekker/Yandex.Disk.localized/Bunny/Photo'
     main = []
     
