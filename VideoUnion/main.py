@@ -11,7 +11,7 @@ s = os.path.abspath(__file__)
 c = s.replace(os.path.basename(os.path.abspath(__file__)), '')
 
 
-directory = r'D:\Movavi\Input\6'
+directory = r'D:\YandexDisk\_Test\First'
 
 
 def merge_video_clip(path_directory, res_name):
